@@ -1,0 +1,262 @@
+{
+    "4": {
+        "name": "4",
+        "questions": [
+            {
+                "label": "réponse A",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "A"
+            },
+            {
+                "label": "Réponse B",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "B"
+            },
+            {
+                "label": "réponse C",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "C"
+            },
+            {
+                "label": "réponse D",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "D"
+            }
+        ]
+    },
+    "bibi": {
+        "name": "bibi",
+        "questions": [
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "B"
+            },
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "B"
+            },
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "B"
+            },
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "B"
+            },
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "B"
+            }
+        ]
+    },
+    "hello": {
+        "name": "hello",
+        "questions": [
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "answerB"
+            },
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "answerD"
+            }
+        ]
+    },
+    "bobo": {
+        "name": "bobo",
+        "questions": [
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "answerA"
+            },
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "answerB"
+            },
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "answerC"
+            },
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "answerD"
+            }
+        ]
+    },
+    "les grandes villes d'europe": {
+        "name": "les grandes villes d'europe",
+        "questions": [
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": ""
+            }
+        ]
+    },
+    "facie": {
+        "name": "facie",
+        "questions": [
+            {
+                "label": "réponse a",
+                "answerA": "la réponse a",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "answerA"
+            },
+            {
+                "label": "la réponse B",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "answerB"
+            },
+            {
+                "label": "la réponse C",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "answerC"
+            }
+        ]
+    },
+    "facile": {
+        "name": "facile",
+        "questions": [
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "B"
+            }
+        ]
+    },
+    "tutt": {
+        "name": "tutt",
+        "questions": [
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "B"
+            }
+        ]
+    },
+    "tata": {
+        "name": "tata",
+        "questions": [
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "B"
+            }
+        ]
+    },
+    "tutu": {
+        "name": "tutu",
+        "questions": [
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "B"
+            }
+        ]
+    },
+    "rara": {
+        "name": "rara",
+        "questions": [
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "B"
+            }
+        ]
+    },
+    "zaza": {
+        "name": "zaza",
+        "questions": [
+            {
+                "label": "Quel est la capitale de la France ?",
+                "answerA": "Berlin",
+                "answerB": "Paris",
+                "answerC": "Rome",
+                "answerD": "Londres",
+                "correctAnswer": "B"
+            }
+        ]
+    }
+}
